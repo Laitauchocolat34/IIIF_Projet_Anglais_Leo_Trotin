@@ -1,0 +1,13 @@
+{
+  "id" : "https://Laitauchocolat34.github.io/IIIF_Projet_Anglais_Leo_Trotin/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Laitauchocolat34/IIIF_Projet_Anglais_Leo_Trotin project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Laitauchocolat34.github.io/IIIF_Projet_Anglais_Leo_Trotin/manifests/Leo_Trotin_Manifest.json",
+    "label" : "IIIF_Project_Leo"
+  } ]
+}
