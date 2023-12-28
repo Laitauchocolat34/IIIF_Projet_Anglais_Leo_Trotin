@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Laitauchocolat34.github.io/IIIF_Projet_Anglais_Leo_Trotin/manifests/Leo_Trotin_Manifest.json",
     "label" : "IIIF_Project_Leo"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Laitauchocolat34.github.io/IIIF_Projet_Anglais_Leo_Trotin/manifests/LeoTrotinManifest.json",
+    "label" : "IIIF_Project_Leo"
   } ]
 }
